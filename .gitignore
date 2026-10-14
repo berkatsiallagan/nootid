@@ -34,3 +34,14 @@ temp/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.idea/
+*.iml
